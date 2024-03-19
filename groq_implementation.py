@@ -6,7 +6,6 @@ from langchain.prompts import PromptTemplate
 
 from dotenv import load_dotenv
 import os
-import random
 import streamlit as st
 
 load_dotenv()
